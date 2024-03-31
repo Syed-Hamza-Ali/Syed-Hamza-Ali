@@ -8,11 +8,6 @@
     </a>
   </p>
 
-  <h2>My Python Development Course</h2>
-  <ul>
-    <li><a href="https://www.youtube.com/channel/UCSy4EMgtOa5rajZzmXOdTTQ">Youtube channel for Tips</a></li>
-  </ul>
-
   <h3>I'm a Python Developer, Teacher and Researcher!</h3>
   <ul>
     <li>🔭 I’m currently working as a Backend Engineer.</li>
@@ -22,8 +17,6 @@
     <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
     <li>💎 If you are a Tech boy/girl let's get connected</li>
   </ul>
-	
-<div width="100%"> <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=saadfareed&badges=3&show-avatar=true&show-header=true&badge-min-width=150&branding=false&style=--badge-technology-font-weight:500;--badge-rank-font-weight:normal;--badge-rank-font-size:16px;--badge-bg-color:%23000;--header-bg-color:%23000;--badge-text-color:%23fff;--badge-margin:5px;"> </div>
 	
 <h2>Tech Stack</h2>
 
@@ -115,10 +108,10 @@
 </tr>
 </table>
 <p align="center">
-  <a href="https://www.linkedin.com/in/saad-fareed/"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:saadfareed632@gmail.com"><img src="https://img.shields.io/badge/-saadfareed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+  <a href="www.linkedin.com/in/syed-hamza-b38456241/"><img src="https://img.shields.io/badge/Syed%20Hamza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:syedhamza941@gmail.com"><img src="https://img.shields.io/badge/-syedhamzad@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/__syed.hamza__?igsh=bGU0eTMzNmlpdG5m/"><img src="https://img.shields.io/badge/-@syedhamza-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://leetcode.com/syed_hamza_ali_shah//"><img src="https://img.shields.io/badge/-/syedhamza-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
 </p>
 
 <table>
@@ -134,36 +127,6 @@
   </tr>
 </table>
 	
-
-	
-## Personal Projects
-
-| Project :octocat: | Issues :bug: | Open PRs :bell: | Closed PRs :fire: | Last Commit 🚩 |
-| ----------------- | ------------- | ---------------- | ------------------ | -------------- |
-| [**Leetcode Practice**](https://github.com/saadfareed/Leetcode) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/Leetcode?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Leetcode?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Leetcode?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Leetcode?color=blue&logo=github&style=flat) |
-| [**Github Profile**](https://github.com/saadfareed/saadfareed) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/saadfareed?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/saadfareed?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/saadfareed?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/saadfareed?color=blue&logo=github&style=flat) |
-| [**Certificate Generator**](https://github.com/saadfareed/Certificate_generator) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/Certificate_generator?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Certificate_generator?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Certificate_generator?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Certificate_generator?color=blue&logo=github&style=flat) |
-| [**Meeting Summarization**](https://github.com/saadfareed/transcript_summary) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/transcript_summary?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/transcript_summary?style=flat&logo=github) | ![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/transcript_summary?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/transcript_summary?color=blue&logo=github&style=flat) |
-
-[![@sadi's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@sadi)
-
-
-## ⚡️Github Contributions
-
-<h4 align="center">Isometric view of contributions in the last year</h4>
-
-<p align="center">
-  <a href="./profile-3d-contrib/profile-night-rainbow.svg">
-    <img width="900" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric view of contributions in the last year">
-  </a>
-</p>
-
-
-## 🚀Github Metrics
-
-<p align="center">
-    <img width="625em" src="https://github.com/saadfareed/saadfareed/blob/main/github-metrics.svg" />
-</p>
     
 ## 🐛Github Magic Game
 
